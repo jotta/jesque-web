@@ -23,7 +23,7 @@
         <spring.mvc.version>3.2.9.RELEASE</spring.mvc.version>
         <aspectj.version>1.8.1</aspectj.version>
         <jedis.version>2.5.1</jedis.version>
-        <jesque.version>2.0.0</jesque.version>
+        <jesque.version>2.0.1</jesque.version>
         <slf4j.version>1.7.7</slf4j.version>
         <junit.version>4.11</junit.version>
     </properties>
